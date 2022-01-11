@@ -29,12 +29,12 @@ Currently working at &nbsp;<a href="https://github.com/redeok" title="@RedeOK">!
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  
+  <br />
+  <br />
+  
   <img align="center" alt="WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Zend Framework" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain.svg">
-
-<br />
-<br />
-
   <img align="center" alt="Jasmine" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg">
   <img align="center" alt="Doctrine" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
